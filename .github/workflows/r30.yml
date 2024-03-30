@@ -1,7 +1,7 @@
 name: "30 Timeframe"
 on:
   schedule:
-    - cron: '0 9,20 * * *'
+    - cron: '0 2,13 * * *'
 
 jobs:
   update-data:
